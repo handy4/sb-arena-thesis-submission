@@ -1,6 +1,6 @@
 # LLM Social Bias Arena
 
-> Supporting software and processed evaluation data for my master's thesis on social-bias evaluation in large language models titled "A Social Bias Evaluation Arena for Large Language Models". A live demo of the website is available [here](https://sb-arena-demo.hendrik-speh-95a.workers.dev/)
+> Supporting software and processed evaluation data for my master's thesis on social-bias evaluation in large language models titled "A Social Bias Evaluation Arena for Large Language Models". A live demo of the website is available [here](https://sb-arena-demo.hendrik-speh-95a.workers.dev/).
 
 ## What is included
 
